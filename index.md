@@ -15,6 +15,6 @@ We hope to see you soon!
 <pre>
 Jim Thielemann, K6SV
 President
-<pre>
+</pre>
 
 * * *
