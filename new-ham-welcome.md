@@ -1,4 +1,8 @@
-# Welcome, New Hams!
+---
+layout: default
+---
+
+## Welcome, New Hams!
 
 Welcome to the world of ham radio! Congratulations, you just made the world smaller by getting your ham license. What other way can you easily talk to someone in any corner of the world in real-time? Regardless of your skillset, there are many activities to enjoy and explore in this hobby. From rag chewing, experimenting, antenna building, moon bounce, satellite communications, DX hunting, contesting, CW/SSB/digital modes, or emergency communications to name a few.
 
