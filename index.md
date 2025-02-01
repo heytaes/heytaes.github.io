@@ -2,19 +2,15 @@
 layout: default
 ---
 
-* * *
+# Welcome
 
-# Welcome!
+Welcome to the Palo Alto Amateur Radio Association (PAARA), the friendliest club around.  Established in 1937, PAARA is a premier general interest club located in the San Francisco Bay Area.  Whether you are passionate about DX, contesting, EME, ARES, MARS, microwave, digital modes, or any other aspect of amateur radio, youll find like-minded members here.
 
-I personally welcome you to “the friendliest club around” and thanks for checking us out. The Palo Alto Amateur Radio Association (PAARA) is a premier general interest club located in the San Francisco Bay Area dating back to 1937. Whether you’re interested in DX, Contesting, EME, ARES, MARS, Microwave or any other facet of amateur radio, you’ll find one or more members who have similar interests.
+To get a feel for our club, I encourage you to explore the different sections of our website.  Notably, we have back issues of our newsletter, [PAARAgraphs](paaragraphs.md), dating to 1971. Whether you're a [new ham](hewham.md), an experienced old-timer, a visitor from out of the area, or are curious about amateur radio and how to get involved, we invite you to join us for our [monthly meetings](meetings.md).  These gatherings provide an excellent opportunity to connect with other passionate hams, hear an interesting presentation, and learn more about amateur radio in the Bay Area.
 
-I encourage you to get a “feel” of the club by browsing the pages of our web site. Of note are the back issues of our newsletter, PAARAgraphs, which date back to 1971. Whether a new ham, old-timer, or visiting from out of the area, I invite you to join us at a monthly meeting to connect with other passionate hams.
-
-We hope to see you soon!
+I hope to see you soon!
 
 <pre>
-Jim Thielemann, K6SV
+Bob Ridenour, KN6YGN
 President
 </pre>
-
-* * *
