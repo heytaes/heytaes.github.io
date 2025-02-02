@@ -8,7 +8,7 @@ To be announced
 
 ## 2024/08/24 : Computer History Museum
 
-[!](events/images/240824-CHM_flyer.jpg)
+![Flyer](events/images/240824-CHM_flyer.jpg)
 
 ## Past events
 
