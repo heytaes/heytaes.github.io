@@ -2,9 +2,6 @@
 
 PAARA owns a variety of equipment that is used for the ARRL annual Field Day contest/amateur radio public demonstration. This list is an attempt to document what we have, but is not currently complete.If you don’t see something on this list that you know we own, please contat K6WEB with the information.
 
-[[TOC]]
-[TOC]
-
 ## Radios & Accessories
 
 ### Elecraft KX1
