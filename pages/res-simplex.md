@@ -4,17 +4,17 @@ Because a repeater can only support one conversation at a time, it is important 
 
 Channel|10 m [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#10m) [NARCC](http://www.narcc.org/Rptr_Lists/10M-chart-final.pdf)|6 m [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#6m) [NARCC](http://www.narcc.org/Rptr_Lists/6M-chart-final-1.pdf)|2 m [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#2m) [NARCC](http://www.narcc.org/Rptr_Lists/2M-chart-1-final.pdf)|1.25 m [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#1.25m) [NARCC](http://www.narcc.org/Rptr_Lists/1.25M-chart-final.pdf)|70 cm [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#70cm) [NARCC](http://www.narcc.org/Rptr_Lists/70cmchart-20020312.pdf)|33cm [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#33cm) [NARCC](http://www.narcc.org/Rptr_Lists/Bandplan.html)|23 cm [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#23cm) [NARCC](http://www.narcc.org/Rptr_Lists/Bandplan.html)|13 cm [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#2300) [NARCC](http://www.narcc.org/Rptr_Lists/Bandplan.html)
 --|--|--|--|--|--|--|--|--
-1|29.600|51.50|146.400|223.400|441.000| |1294.000|2305.000
-2| |51.52|146.415|223.420|446.000| |1294.025|2305.025
+1|**29.600**|51.50|146.400|223.400|441.000| |1294.000|2305.000
+2| |51.52|146.415|223.420|**446.000**| |1294.025|2305.025
 3| |51.54|146.430|223.440|446.500| |1294.050|2305.050
 4| |51.56|146.445|223.460| | |1294.075|2305.075
 5| |51.58|146.460|223.480| | |1294.100|2305.100
-6| |51.60|146.475|223.500| | |1294.125|2305.125
+6| |51.60|146.475|**223.500**| | |1294.125|2305.125
 7| |52.00|146.490|223.520| | |1294.150|2305.150
 8| |52.02|146.505| | | |1294.175|2305.175
-9| |52.04|146.520| | | |1294.200|2305.200
+9| |52.04|**146.520**| | | |1294.200|**2305.200**
 10| |52.50|146.535| | | |1294.225|2305.225
-11| |52.525|146.550| | | |1294.250|2305.250
+11| |**52.525**|146.550| | | |1294.250|2305.250
 12| |52.54|146.565| | | |1294.275|2305.275
 13| |53.00|147.405| | | |1294.300|2305.300
 14| |53.02|147.420| | | |1294.325|2305.325
