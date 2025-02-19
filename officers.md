@@ -4,6 +4,6 @@
 
 | | |
 ---|---|---|---
-![](/images/KN6YGN.jpeg)<br>**President**<br>Bob Ridenour<br>KN6YGN<br> [bob_ridenour@yahoo.com](bob_ridenour@yahoo.com) | ![](/images/KC6TYD-100.jpg)<br>**Vice President**<br>Rob Fenn<br>KC6TYD<br>[kc6tyd@gmail.com](kc6tyd@gmail.com) | ![](/images/N6AJS-100.jpg)<br>**Secretary**<br>Ric Hulett<br>N6AJS<br>[N6AJS@arrl.net](N6AJS@arrl.net) | ![](/images/k6wek.jpg)<br>**Treasurer**<br>Margaret Cooper<br>K6WEK<br>[margaret.k6wek@gmail.com](margaret.k6wek@gmail.com)
+<img src="/images/KN6YGN.jpeg" alt="picture" width="20%"/><br>**President**<br>Bob Ridenour<br>KN6YGN<br> [bob_ridenour@yahoo.com](bob_ridenour@yahoo.com) | <img src="/images/KC6TYD-100.jpg" alt="picture" width="20%"/><br>**Vice President**<br>Rob Fenn<br>KC6TYD<br>[kc6tyd@gmail.com](kc6tyd@gmail.com) | <img src="/images/N6AJS-100.jpg" alt="picture" width="20%"/><br>**Secretary**<br>Ric Hulett<br>N6AJS<br>[N6AJS@arrl.net](N6AJS@arrl.net) | <img src="/images/k6wek.jpg" alt="picture" width="20%"/><br>**Treasurer**<br>Margaret Cooper<br>K6WEK<br>[margaret.k6wek@gmail.com](margaret.k6wek@gmail.com)
 
 
