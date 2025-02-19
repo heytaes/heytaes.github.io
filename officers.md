@@ -27,7 +27,7 @@
             <span class="tahoma-14-blue">N6AJS</span><br />
             <a href="mailto:N6AJS@arrl.net">N6AJS@arrl.net</a></div>
             </td>
-            <td bgcolor="#DDDDDD" class="tahoma-12" valign="top" width="25%">
+            <td valign="top" width="25%">
             <div align="center"><img height="140" src="/images/k6wek.jpg" vspace="5" width="100" /><br />
             <span class="tahoma-14-bold">Treasurer</span><br />
             <span class="tahoma-14">Margaret Cooper</span><br />
@@ -36,19 +36,19 @@
             </td>
         </tr>
         <tr>
-            <td bgcolor="#DDDDDD" class="tahoma-12" colspan="4" height="40">
+            <td colspan="4" height="40">
             <div align="center"><span class="tahoma-18-bold">Directors</span></div>
             </td>
         </tr>
         <tr>
-            <td bgcolor="#DDDDDD" class="tahoma-12" valign="top">
+            <td valign="top">
             <div align="center"><img height="140" src="/images/K6WGY-100-1.jpg" vspace="5" width="100" /><br />
             <span class="tahoma-14-bold">2025-2026</span><br />
             <span class="tahoma-14">Walt Gyger</span><br />
             <span class="tahoma-14-blue">K6WGY</span><br />
             <a href="mailto:wgyger@ix.netcom.com">wgyger@ix.netcom.com</a></div>
             </td>
-            <td bgcolor="#DDDDDD" class="tahoma-12" valign="top">
+            <td  valign="top">
             <div align="center"><img alt="" src="/images/KN6YUH.jpg" style="margin-top: 5px; margin-bottom: 5px; width: 93px; height: 140px;" /><br />
             <span class="tahoma-14-bold">2024-2025</span><br />
             Sorin Constantinescu<br />
@@ -56,14 +56,14 @@
             <a href="mailto:kn6yuh@gmail.com">kn6yuh@gmail.com</a></div>
             <div align="center"></div>
             </td>
-            <td bgcolor="#DDDDDD" class="tahoma-12" valign="top">
+            <td valign="top">
             <div align="center"><span class="tahoma-16"><img height="140" src="/images/KG6LWE-100.jpg" vspace="5" width="100" /></span><br />
             <span class="tahoma-14-bold">2025</span><br />
             <span class="tahoma-14">Doug Teter</span><br />
             <span class="tahoma-14-blue">KG6LWE</span><br />
             <a href="mailto:dteter@wcwi.com">dteter@wcwi.com</a></div>
             </td>
-            <td bgcolor="#DDDDDD" class="tahoma-12" valign="top">
+            <td valign="top">
             <div align="center"><span class="tahoma-16"><img height="140" src="/images/KI6LDM-100.jpg" vspace="5" width="100" /></span><br />
             <span class="tahoma-14-bold">2025</span><br />
             <span class="tahoma-14">Darryl Presley</span><br />
@@ -73,3 +73,26 @@
         </tr>
     </tbody>
 </table>
+
+## Appointed Positions
+
+Position | Name | Call Sign | Email
+---|---|---|---
+ASVARO Representative           | Clark Martin          | KK6ISP    | [KK6ISP@ARRL.net](KK6ISP@ARRL.net)
+Badge Coordinator               | Doug Teter            | KG6LWE    | [dteter@wcwi.com](dteter@wcwi.com)
+Database                        | Ric Hulett            | N6AJS     | [N6AJS@arrl.net](N6AJS@arrl.net)
+Field Day Coordinator           | Doug Teter            | KG6LWE    | [dteter@wcwi.com](dteter@wcwi.com)
+Field Trip Coordinator          | __OPEN__              | __OPEN__  | __OPEN__
+Fund Raising Coordinator        | Bob Korte             | KD6KYT    | [bob@rgktechsale.com](bob@rgktechsale.com)
+Historian                       | __VACANT__            |           |
+Membership                      |                       |           |
+Property Manager                |                       |           |
+Public Affairs                  | __VACANT__            |           |
+QSL Manager                     | Marty Wayne           | W6NEV     | [w6nev@arrl.net](w6nev@arrl.net)
+Raffle Coordinator              | Rob Fenn              | KC6TYD    | [kc6tyd@gmail.com](kc6tyd@gmail.com)
+Speaker Coordinator             | Rob Fenn              | KC6TYD    | [kc6tyd@gmail.com](kc6tyd@gmail.com)
+Station Trustee - W6OTX, W6ARA  | Gerry Tucker          | N6NV      | 
+Station Trustee - K6YQT         | Doug Teter            | KG6LWE    | [dteter@wcwi.com](dteter@wcwi.com)
+Technical Coordinator           | Christopher Hoover    | AI6KG     | [ai6kg@arrl.net](ai6kg@arrl.net)
+Webmaster                       | Shrikumar H.          | KA6Q      | [shri.paara@enablery.org](shri.paara@enablery.org)
+
