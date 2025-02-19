@@ -46,7 +46,8 @@ Channel|10 m [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html#1
 40| | | | | | |1294.975|2305.975
 41| | | | | | |1295.000|2306.000
 
-**2 Meter Note**:
+
+## 2 Meter Note
 * Because of concerns over interference from adjacent channels, other states use a channel spacing of 20 kHz, while southern Nevada uses 30 kHz and Alaska uses 60 kHz. The channel spacing for each state is shown in the offset map that is part of the ARRL Repeater Directory.
 * This means that the available simplex frequencies will be different in Southern California and in other states.
 * For the purposes of amateur radio operations, Northern California is defined with the following boundary:
