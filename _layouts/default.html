@@ -29,7 +29,7 @@
         <nav>
           <ul>
             {% for item in site.data.navigation %}
-              <li class="sidebar-menu{% if page.url == item.link %} current{% endif %}">
+              <li class="sidebar{% if page.url == item.link %} current{% endif %}">
                 <a href="{{ item.link }}">{{ item.name }}</a>
               </li>
             {% endfor %}
