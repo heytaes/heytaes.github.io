@@ -1,7 +1,7 @@
 - name: Home
-  link: {{ site.base_url }}//index.html
+  link: {{ site.base_url }}/index.html
 - name: New Ham Welcome
-  link: {{ site.base_url }}//newham.html
+  link: {{ site.base_url }}/newham.html
 - name: About Us
   link: {{ site.base_url }}/aboutus.html
 - name: Calendar
