@@ -19,33 +19,22 @@
   <body>
     <header>
       <div class="inner">
-	<img height="100%" src="/images/bannersub-900.jpg" width="100%">
-
+	      <img height="100%" src="/images/bannersub-900.jpg" width="100%">
       </div>
     </header>
 
     <div id="content-wrapper">
       <div class="inner clearfix">
 
-        <aside id="sidebar">
-          <a href="{{ site.base_url }}/index.html">Home</a><br>
-          <a href="{{ site.base_url }}/newham.html">New Ham Welcome</a><br>
-          <a href="{{ site.base_url }}/aboutus.html">About Us</a><br>
-          <a href="{{ site.base_url }}/calendar.html">Calendar</a><br>
-          <a href="{{ site.base_url }}/events.html">Events</a><br>
-          <a href="{{ site.base_url }}/fieldday.html">Field Day</a><br>
-          <a href="{{ site.base_url }}/forsale.html">For Sale</a><br>
-          <a href="{{ site.base_url }}/funstuff.html">Fun Stuff</a><br>
-          <a href="{{ site.base_url }}/meetings.html">Meetings</a><br>
-          <a href="{{ site.base_url }}/membership.html">Membership</a><br>
-          <a href="{{ site.base_url }}/nets.html">Nets</a><br>
-          <a href="{{ site.base_url }}/newsletter.html">Newsletter</a><br>
-          <a href="{{ site.base_url }}/officers.html">Officers</a><br>
-          <a href="{{ site.base_url }}/photos.html">Photos</a><br>
-          <a href="{{ site.base_url }}/resources.html">Resources</a><br>
-          <a href="{{ site.base_url }}/sigs.html">SIGS</a><br>
-          <a href="{{ site.base_url }}/sponsors.html">Sponsors</a><br>
-        </aside>
+        <nav>
+          <ul>
+            {% for item in site.data.navigation %}
+              <li class="sidebar-menu{% if page.url == item.link %} current{% endif %}">
+                <a href="{{ item.link }}">{{ item.name }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
 
         <section id="main-content">
           {{ content }}
