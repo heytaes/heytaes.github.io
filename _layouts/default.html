@@ -26,15 +26,13 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
 
-        <nav>
-          <ul>
-            {% for item in site.data.navigation %}
-              <li class="sidebar{% if page.url == item.link %} current{% endif %}">
-                <a href="{{ item.link }}">{{ item.name }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </nav>
+        <aside id="sidebar">
+          {% for item in site.data.navigation %}
+            <li class="sidebar{% if page.url == item.link %} current{% endif %}">
+              <a href="{{ item.link }}">{{ item.name }}</a>
+            </li>
+          {% endfor %}
+        </aside>
 
         <section id="main-content">
           {{ content }}
