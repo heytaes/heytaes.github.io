@@ -1,34 +1,34 @@
 - name: Home
-  link: {{ site.base_url }}/index.html
+  link: /index.html
 - name: New Ham Welcome
-  link: {{ site.base_url }}/newham.html
+  link: /newham.html
 - name: About Us
-  link: {{ site.base_url }}/aboutus.html
+  link: /aboutus.html
 - name: Calendar
-  link: {{ site.base_url }}/calendar.html
+  link: /calendar.html
 - name: Events
-  link: {{ site.base_url }}/events.html
+  link: /events.html
 - name: Field Day
-  link: {{ site.base_url }}/fieldday.html
+  link: /fieldday.html
 - name: For Sale
-  link: {{ site.base_url }}/forsale.html
+  link: /forsale.html
 - name: Fun Stuff
-  link: {{ site.base_url }}/funstuff.html
+  link: /funstuff.html
 - name: Meetings
-  link: {{ site.base_url }}/meetings.html
+  link: /meetings.html
 - name: Membership
-  link: {{ site.base_url }}/membership.html
+  link: /membership.html
 - name: Nets
-  link: {{ site.base_url }}/nets.html
+  link: /nets.html
 - name: Newsletter
-  link: {{ site.base_url }}/newsletter.html
+  link: /newsletter.html
 - name: Officers
-  link: {{ site.base_url }}/officers.html
+  link: /officers.html
 - name: Photos
-  link: {{ site.base_url }}/photos.html
+  link: /photos.html
 - name: Resources
-  link: {{ site.base_url }}/resources.html
+  link: /resources.html
 - name: SIGS
-  link: {{ site.base_url }}/sigs.html
+  link: /sigs.html
 - name: Sponsors
-  link: {{ site.base_url }}/sponsors.html
+  link: /sponsors.html
