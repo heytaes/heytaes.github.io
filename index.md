@@ -2,7 +2,13 @@
 layout: default
 ---
 
-# Welcome
+---
+
+{% include meeting-short.md %}
+
+---
+
+## Welcome
 
 Welcome to the Palo Alto Amateur Radio Association (PAARA), the friendliest club around.  Established in 1937, PAARA is a premier general interest club located in the San Francisco Bay Area.  Whether you are passionate about DX, contesting, EME, ARES, MARS, microwave, digital modes, or any other aspect of amateur radio, youll find like-minded members here.
 
