@@ -57,14 +57,14 @@
             <div align="center"></div>
             </td>
             <td valign="top">
-            <div align="center"><span /></span><br />
+            <div align="center"><img alt="" src="/images/KG6LWE-100.jpg" style="margin-top: 5px; margin-bottom: 5px; width: 93px; height: 140px;" /><br />
             <span>2025</span><br />
             <span>Doug Teter</span><br />
             <span>KG6LWE</span><br />
             <a href="mailto:dteter@wcwi.com">dteter@wcwi.com</a></div>
             </td>
             <td valign="top">
-            <div align="center"><span /></span><br />
+            <div align="center"><img alt="" src="/images/KI6LDM-100.jpg" style="margin-top: 5px; margin-bottom: 5px; width: 93px; height: 140px;" /><br />
             <span>2025</span><br />
             <span>Darryl Presley</span><br />
             <span>KI6LDM</span><br />
