@@ -1,6 +1,6 @@
 ## Next club meeting
-* **Date**: `4 April 2025`
-* **Topic**: `Stealth HF Antennas`
-* **Presenter**: `Mike McClary, N6MO`
+* **Date**: `2 May 2025`
+* **Topic**: `TBA`
+* **Presenter**: `TBA`
 
 For more information, visit the [meetings page](/meetings.html).
