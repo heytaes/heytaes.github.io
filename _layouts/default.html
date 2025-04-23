@@ -28,7 +28,8 @@
 
         <aside id="sidebar">
           {% for item in site.data.navigation %}
-            <a class="sidebar{% if page.url == item.link or page.url == item.link | prepend: site.baseurl %} current{% endif %}" href="{{ item.link }}">{{ item.name }}</a><br>
+            {% assign item_link_with_baseurl = item.link | prepend: site.baseurl %}
+            <a class="sidebar{% if page.url == item.link or page.url == item_link_with_baseurl %} current{% endif %}" href="{{ item.link }}">{{ item.name }}</a><br>
           {% endfor %}
         </aside>
 
