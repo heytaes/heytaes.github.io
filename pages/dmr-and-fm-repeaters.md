@@ -36,7 +36,7 @@ Few useful links for much more information about DMR, BrandMeister and other act
 
 * [DMR 101](https://amateurradionotes.com/dmr.htm)
 * [BrandMeister](https://wiki.brandmeister.network/index.php/Main_Page)
-* [SNARS DMR](https://snars.org/dmr/info/)
+* [SNARS DMR](https://snars.org/repeaters/info/)
 * [PAPA System DMR](http://papasys.com/dmr/)
 
 
