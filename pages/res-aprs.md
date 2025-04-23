@@ -6,8 +6,6 @@
     * Fairly capable software, half-way decent mapping support. $50 to register.
 * [UI-View](http://www.ui-view.org/)
     * Easiest-to-use APRS software, but no zoomable maps without purchase of Precision Mapping.
-* [XASTIR](http://www.xastir.org/)
-    * Linux APRS software, that can be made to run under Mac OS X and Windows. Free.
 * [APRSPoint](http://www.aprspoint.com/)
     * APRS for Microsoft MapPoint. Great maps, but very limited features. $104 with MapPoint, $30 without.
 * [AGWTracker](http://www.elcom.gr/sv2agw/tracker.htm)
