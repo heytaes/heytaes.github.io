@@ -2,7 +2,7 @@
 
 VHF/UHF frequencies used in the Bay Area.
 
-[A complete listing of the simplex frequencies for all bands](/pages/res-simplex.html) is also available, as is a [complete list of repeaters](http://www.narcc.org/Rptr_Lists/Repeater_List_menu.html).
+[A complete listing of the simplex frequencies for all bands](/pages/res-simplex.html) is also available, as is a [complete list of repeaters](https://www.narcconline.org/narcc/repeater_list_menu.cfm).
 
 ## Simplex Voice
 
@@ -25,7 +25,7 @@ The controlling authorities are ARRL (National) and NARCC (Northern California).
 
 The controlling authorities are [ARRL](http://www.arrl.org/FandES/field/regulations/bandplan.html) for the national band plan, [NARCC](http://www.narcc.org/) (which allocates the ranges for digital modes in Northern California, in conjunction with NCPA), [NCPA](https://ncpa.n0ary.org/bandplan/digital_db.php) (the Northern California Packet Association, which assigns most discrete frequencies within the digital ranges), [PSNC](https://ncpa.n0ary.org/group/bbs/coordination.php) (Packet Sysops of Northern California, which coordinates BBS stations in Northern California), [DXPSN](https://ncpa.n0ary.org/group/dxpsn/index.php) (the DX Packet Spotting Network, which coordinates DX Spotting, a.k.a. DX Packet Cluster), and [WSWSS](https://www.facebook.com/groups/135167899830335/) (the Western States Weak Signal Society).
 
-* [Northern California Packet Association](http://www.n0ary.org/ncpa/ncpabandplan.html)
+* [Northern California Packet Association](https://ncpa.n0ary.org)
     * The coordinating body for the digital frequencies in Norther California.
 * APRS
     * 144.390
