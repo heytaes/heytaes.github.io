@@ -34,70 +34,70 @@ The corporate powers of this corporation shall be vested in a Board of Directors
 
 The Board of Directors shall:
 
-    (a) set the dues rate;
+`(a) set the dues rate;`
 
-    (b) consider all proposals for plans or actions to accomplish the purposes of the Association;
+`(b) consider all proposals for plans or actions to accomplish the purposes of the Association;`
 
-    (c) adopt ways and means for the advancement of the Association and designate work to be done between meetings of the Board;
+`(c) adopt ways and means for the advancement of the Association and designate work to be done between meetings of the Board;`
 
-    (d) have general charge of all interests of the Association;
+`(d) have general charge of all interests of the Association;`
 
-    (e) create and dissolve committees and other non-Board positions. The Board shall charge them with appropriate purposes and authorities, as needed for conducting Association activities and accomplishing the Association purposes;
+`(e) create and dissolve committees and other non-Board positions. The Board shall charge them with appropriate purposes and authorities, as needed for conducting Association activities and accomplishing the Association purposes;`
 
-    (f) ratify, by majority vote, the members that the President is privileged to appoint to the committees and other non-Board positions that the Board has established;
+`(f) ratify, by majority vote, the members that the President is privileged to appoint to the committees and other non-Board positions that the Board has established;`
 
-    (g) monitor all financial accounts, direct the expenditure of funds of the Association, but not in excess of the amount held by the Treasurer, and ensure the financial viability of the club.
+`(g) monitor all financial accounts, direct the expenditure of funds of the Association, but not in excess of the amount held by the Treasurer, and ensure the financial viability of the club.`
 
 ## ARTICLE V. DUTIES OF THE DIRECTORS
 It shall be the duty of the Directors:
 
-    (a) to provide leadership and direction to the Board and the club;
+`(a) to provide leadership and direction to the Board and the club;`
 
-    (b) to act according to the best interests of the Association and its purposes.
+`(b) to act according to the best interests of the Association and its purposes.`
 
 ## ARTICLE VI. DUTIES OF PRESIDENT
 It shall be the duty of the President:
 
-    (a) to preside at all regular meetings of the Association and to preside at all meetings of the Board of Directors;
+`(a) to preside at all regular meetings of the Association and to preside at all meetings of the Board of Directors;`
 
-    (b) to appoint replacements for Officers and Directors not able to serve their complete term, as well as to fill otherwise vacant positions on the Board. These appointments do not require the ratification of the Board, but such appointees shall only serve until the next regularly scheduled election;
+`(b) to appoint replacements for Officers and Directors not able to serve their complete term, as well as to fill otherwise vacant positions on the Board. These appointments do not require the ratification of the Board, but such appointees shall only serve until the next regularly scheduled election;`
 
-    (c) to appoint members to committees and other non-Board positions established by the Board, subject to the ratification by the Board.
+`(c) to appoint members to committees and other non-Board positions established by the Board, subject to the ratification by the Board.`
 
 ## ARTICLE VII. DUTIES OF VICE-PRESIDENT
 It shall be the duty of the Vice-President:
 
-    (a) to assist the President;
+`(a) to assist the President;`
 
-    (b) to perform all the duties of the President during his/her absence.
+`(b) to perform all the duties of the President during his/her absence.`
 
 ## ARTICLE VIII. DUTIES OF SECRETARY
 It shall be the duty of the Secretary:
 
-    (a) to receive all communications that may be addressed to the club or that may be submitted by the other members of the club and to keep a full record of the proceedings of each meeting. The Secretary shall read all communications upon request of the President;
+`(a) to receive all communications that may be addressed to the club or that may be submitted by the other members of the club and to keep a full record of the proceedings of each meeting. The Secretary shall read all communications upon request of the President;`
 
-    (b) to make reports of the Board meetings to the general membership;
+`(b) to make reports of the Board meetings to the general membership;`
 
-    (c) to keep the Articles of Incorporation and Bylaws of the Association and have the same with him/her at every meeting. He/she shall note all amendments, changes and additions to these documents and shall permit them to be consulted by members upon request;
+`(c) to keep the Articles of Incorporation and Bylaws of the Association and have the same with him/her at every meeting. He/she shall note all amendments, changes and additions to these documents and shall permit them to be consulted by members upon request;`
 
-    (d) to take charge of the annual election process, including ensuring that the pre-election deadlines are met, that only members vote, that all votes are properly tabulated and results properly announced to the membership. The Secretary shall also keep track of all committee and special position appointments and ensure that they are accurately reported in the Association newsletter;
+`(d) to take charge of the annual election process, including ensuring that the pre-election deadlines are met, that only members vote, that all votes are properly tabulated and results properly announced to the membership. The Secretary shall also keep track of all committee and special position appointments and ensure that they are accurately reported in the Association newsletter;`
 
-    (e) to ensure that the membership roster is well-maintained at all times, and notify the Board whenever there is a possibility the Association will be disqualified from ARRL affiliation, or any other affiliations currently held;
+`(e) to ensure that the membership roster is well-maintained at all times, and notify the Board whenever there is a possibility the Association will be disqualified from ARRL affiliation, or any other affiliations currently held;`
 
-    (f) to promptly deliver up all books, papers, or other property of the Association to his/her successor in office.
+`(f) to promptly deliver up all books, papers, or other property of the Association to his/her successor in office.`
 
 ## ARTICLE IX. DUTIES OF TREASURER
 It shall be the duty of the Treasurer:
 
-    (a) to receive and bank all monies paid to the club including the responsibility for oversight of the collection of membership dues;
+`(a) to receive and bank all monies paid to the club including the responsibility for oversight of the collection of membership dues;`
 
-    (b) to keep an accurate account of all monies received and expended;
+`(b) to keep an accurate account of all monies received and expended;`
 
-    (c) to pay all Association bills, but only with proper authorization, according to the procedures adopted by the Board of Directors;
+`(c) to pay all Association bills, but only with proper authorization, according to the procedures adopted by the Board of Directors;`
 
-    (d) to submit financial statements to the Board of Directors, at its regular meeting after the end of each quarter, that accurately reflect the income and expenditures of the Association;
+`(d) to submit financial statements to the Board of Directors, at its regular meeting after the end of each quarter, that accurately reflect the income and expenditures of the Association;`
 
-    (e) to promptly deliver everything in his/her possession belonging to the Association to his/her successor in office.
+`(e) to promptly deliver everything in his/her possession belonging to the Association to his/her successor in office.`
 
 ## ARTICLE X. ELECTION OF OFFICERS AND TERMS OF OFFICE
 
@@ -121,11 +121,11 @@ The Trustees of the club station licenses shall be full members in good standing
 ## ARTICLE XII. BYLAW AMENDMENT
 The Bylaws of the corporation may be amended by the following sequential process:
 
-    (a) the amendment must be proposed at a Board meeting and endorsed by a majority vote of the Board;
+`(a) the amendment must be proposed at a Board meeting and endorsed by a majority vote of the Board;`
 
-    (b) the Board-approved amendment shall be submitted in writing at a general meeting of the Association and published in the next monthly newsletter or otherwise mailed to each member at least fifteen days prior to the next general meeting;
+`(b) the Board-approved amendment shall be submitted in writing at a general meeting of the Association and published in the next monthly newsletter or otherwise mailed to each member at least fifteen days prior to the next general meeting;`
 
-    (c) at the next general meeting a vote shall be taken by secret ballot. Members must be present to vote. Voting by proxy is not permitted. A three-fourths vote of the members in attendance is required for passage.
+`(c) at the next general meeting a vote shall be taken by secret ballot. Members must be present to vote. Voting by proxy is not permitted. A three-fourths vote of the members in attendance is required for passage.`
 
 ## ARTICLE XIII. NON-LIABILITY
 The members, Officers, and Directors of the Association shall not be personally liable for the debts, liabilities, or other obligations of the Association or its corporation.

@@ -6,23 +6,23 @@ We, the undersigned, have this date voluntarily associated ourselves together fo
 
 The name of this corporation is: Palo Alto Amateur Radio Association, Inc.
 
-    a. For scientific and educational purposes;
+`a. For scientific and educational purposes;`
 
-    b. To foster better friendship and closer cooperation between amateur radio operators living in the vicinity of Palo Alto;
+`b. To foster better friendship and closer cooperation between amateur radio operators living in the vicinity of Palo Alto;`
 
-    c. To elevate the standards of amateur equipment and operation;
+`c. To elevate the standards of amateur equipment and operation;`
 
-    d. To secure the beenefits of social and educational contacts from the members;
+`d. To secure the beenefits of social and educational contacts from the members;`
 
-    e. To aid the Federal Communications Commission in the giving of license examinations, in the enforcement of laws and regulations with respect to amateur radio operation, and to aid in the investigation and suppression of televition and radio interference;
+`e. To aid the Federal Communications Commission in the giving of license examinations, in the enforcement of laws and regulations with respect to amateur radio operation, and to aid in the investigation and suppression of televition and radio interference;`
 
-    f. To cooperate fully with Federal, State and local officials in the maintenance of emergency communications and particularly in the establishment of civil defense communications;
+`f. To cooperate fully with Federal, State and local officials in the maintenance of emergency communications and particularly in the establishment of civil defense communications;`
 
-    g. To establish and maintain an emergency radio net;
+`g. To establish and maintain an emergency radio net;`
 
-    h. To receive gifts and bequests; to own, control, buy, lease, rent, sell, acquire, hold, convey, motgage, hypothecate and otherwise deal with or dispose of personal property, particularly, but not limited to, radio communications equipment;
+`h. To receive gifts and bequests; to own, control, buy, lease, rent, sell, acquire, hold, convey, motgage, hypothecate and otherwise deal with or dispose of personal property, particularly, but not limited to, radio communications equipment;`
 
-    i. Do each and everything necessary, or suitable, or proper for the accomplishment of any of the purposes or the attainment of any one or any of the subjects herein enumerated, or conductive to or exxpedient for the interest or benefit of said corporation and to contract accordingly; and in addition exercise all powers, rights, and privileges necessary or indidental to the purpose for which said corporation is organized, or the activities in which it is engaged. If at any time this corporation should be dissolved or its corporate existence should cease, or its charter should be revoked, no part of its funds or property shall be distributed to or shall inure to the benefit of any member or other individual, but after payment of all the indebtedness of the corporation, its remaining funds shall be distributed by the Board of Directors for the furthering of scientific and educational purposes in the field of amateur radio communication.
+`i. Do each and everything necessary, or suitable, or proper for the accomplishment of any of the purposes or the attainment of any one or any of the subjects herein enumerated, or conductive to or exxpedient for the interest or benefit of said corporation and to contract accordingly; and in addition exercise all powers, rights, and privileges necessary or indidental to the purpose for which said corporation is organized, or the activities in which it is engaged. If at any time this corporation should be dissolved or its corporate existence should cease, or its charter should be revoked, no part of its funds or property shall be distributed to or shall inure to the benefit of any member or other individual, but after payment of all the indebtedness of the corporation, its remaining funds shall be distributed by the Board of Directors for the furthering of scientific and educational purposes in the field of amateur radio communication.`
 
 ## Three
 That this corporation is organized pursuant to the General Non-Profit Corporation Law of the State of California.
