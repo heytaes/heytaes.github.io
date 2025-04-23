@@ -20,6 +20,8 @@ Today, the Palo Alto Amateur Radio Association consists of nearly 200 members, a
 
 Membership is available to all persons licensed or not who are interested in Amateur radio. There is no screening process or sponsorship required to become a member.
 
+**For Membership and Badges, please choose the appropriate link below.**
+
 <table align="center" border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse" width="640">
 	<tbody>
 		<tr>
