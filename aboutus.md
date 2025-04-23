@@ -10,7 +10,7 @@ In addition to the monthly club meetings, PAARA runs a weekly Net and Swap sessi
 
 ## Founding Documents
 * [PAARA Constitution](/constitution.md) - Recently found among a collection of historical PAARA documents.
-* [PAARA Bylaws](bylaws.md) - Current bylaws of PAARA, as last amended in 2007. The original bylaws are also available for historical interest.
+* [PAARA Bylaws](/bylaws.md) - Current bylaws of PAARA, as last amended in 2007. The original bylaws are also available for historical interest.
 * [PAARA Articles of Incorporation](incorporation.md) - This document was created in order for PAARA to be incorporated as a 501 (c) (4) tax-exempt corporation.
 * Menlo Park C_D Radio Club Constitution - The founding document of the Menlo Park Civil Defense Radio Club.
 * Menlo Park C_D Radio Club Bylaws - Rules governing the normal operation of the club.
