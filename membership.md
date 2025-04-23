@@ -24,30 +24,30 @@ Membership is available to all persons licensed or not who are interested in Ama
 	<tbody>
 		<tr>
 			<td bgcolor="#CCFFCC" height="30">
-			<div align="center"><span class="tahoma-16-boldred">New Members</span></div>
+			<div align="center"><span style="color:red;font-weight:bold;">New Members</span></div>
 			</td>
 			<td bgcolor="#CCFFCC">
-			<div align="center"><span class="tahoma-16-bluebold">Existing Members</span></div>
+			<div align="center"><span style="color:blue;font-weight:bold;">Existing Members</span></div>
 			</td>
 			<td bgcolor="#CCFFCC">
-			<div align="center"><span class="tahoma-16-bold">International Members</span></div>
+			<div align="center"><span style="font-weight:bold;">International Members</span></div>
 			</td>
 		</tr>
 		<tr>
 			<td bgcolor="#FFFF99" valign="top" width="33%">
-			<div align="center"><span class="tahoma-14">To become a PAARA member,</span><br />
+			<div align="center"><span>To become a PAARA member,</span><br />
 			<a href="/membership/new.html"><img border="0" height="50" src="/images/clickhere-70.png" vspace="5" width="50" alt="button" /></a><br />
 			<span class="tahoma-14">for a Membership Application and Badges</span></div>
 			</td>
 			<td bgcolor="#FFFF99" valign="top" width="33%">
-			<div align="center"><span class="tahoma-14">To renew your Membership and Badges</span><br />
+			<div align="center"><span>To renew your Membership and Badges</span><br />
 			<a href="/membership/current.html"><img border="0" height="50" src="/images/clickhere-70.png" vspace="5" width="50" alt="button" /></a><br />
 			<span class="tahoma-14">Renewal can be done via<br />
 			Credit Card, PayPal, or by mail.</span></div>
 			</td>
 			<td bgcolor="#FFFF99" valign="middle" width="33%">
-			<div align="center"><span class="tahoma-14">For information about becoming a PAARA member please contact Membership Secretary, </span><br />
-			<span class="tahoma-14-blue">Ric Hulett (N6AJS) at:<br />
+			<div align="center"><span>For information about becoming a PAARA member please contact Membership Secretary, </span><br />
+			<span class="color:blue">Ric Hulett (N6AJS) at:<br />
 			<a href="mailto:N6AJS@arrl.net">N6AJS@arrl.net</a></span></div>
 			</td>
 		</tr>
