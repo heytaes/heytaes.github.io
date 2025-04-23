@@ -1,7 +1,5 @@
 # Linked Repeater Systems
 
-* [The Rabbit Radio Network](http://www.rabbitradio.org/)
-    * This is part of the Cactus Intertie?
 * [The Cactus Intertie System](http://www.cactus-intertie.org/)
     * A closed, private amateur radio system consisting of a large number of remotely controlled base stations. It covers large portions of California, Arizona, New Mexico, Nevada, Utah, Colorado and Texas. Additional coverage is now available in the Washington D.C. and the surrounding area of Maryland, Virginia and West Virginia, Pennsylvania and Delaware, however it is not linked to the rest of the system on a full time basis yet.
 * [Calnet](http://www.cal-net.org/)
@@ -18,6 +16,4 @@
     * The IRLP uses Voice-Over-IP (VoIP) custom software and hardware. IRLP links simplex radios or repeaters to each other via the Internet.
 * [EchoLink](http://www.echolink.org/)
     * EchoLink software allows licensed Amateur Radio stations to communicate with one another over the Internet, using voice-over-IP (VoIP) technology. The program allows worldwide connections to be made between stations, or from computer to station, greatly enhancing Amateur Radio's communications capabilities. There are more than 130,000 registered users in 150 nations worldwide!
-* [WIRES Ⅱ](http://www.vxstd.com/en/wiresinfo-en/)
-    * Similar in scope to IRLP and EchoLink, WIRES Ⅱ is an Internet radio linking system created by Yaesu (a.k.a. Vertex Standard).
 
