@@ -6,17 +6,17 @@ Adopted November 17, 1947 at Palo Alto and Ammended May 2, 1952 at Palo Alto.
 
 Section NR. 1
 
-    This organization shall be known as the Palo Alto Amateur Radio Association.
+`This organization shall be known as the Palo Alto Amateur Radio Association.`
 
 Section NR. 2.
 
-    The purpose for which this club is organized is to bring together in better friendship amateur radio operators living in the vicinity of Palo Alto to secure closer cooperation and co--ordination of effort; to elevate the standards of equipment and cooperation; to secure the benefits of social and educational contacts with members to abide by all rules, regulations, and laws now in effect or as my herinafter be in effect, governing the licensing and operation of amateur stations and operators.
+`The purpose for which this club is organized is to bring together in better friendship amateur radio operators living in the vicinity of Palo Alto to secure closer cooperation and co--ordination of effort; to elevate the standards of equipment and cooperation; to secure the benefits of social and educational contacts with members to abide by all rules, regulations, and laws now in effect or as my herinafter be in effect, governing the licensing and operation of amateur stations and operators.`
 
 ## Article Ⅱ: Officers
 
 Section NR. 1.
 
-    The officers of this society shall consist of a President, a Vice President, a Secretary and a Treasurer, all of whom shall hold office for a term of one year, and all of whom shall be holders of a valid permanent class of FCC amateur radio license.
+`The officers of this society shall consist of a President, a Vice President, a Secretary and a Treasurer, all of whom shall hold office for a term of one year, and all of whom shall be holders of a valid permanent class of FCC amateur radio license.`
 
 Section NR. 2.
 
