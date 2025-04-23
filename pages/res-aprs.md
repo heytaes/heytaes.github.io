@@ -19,38 +19,10 @@ For those that don’t have APRS software installed or even a means of receiving
 
 ## Maps and Data Files for WinAPRS
 
-* [AFilter](http://www.billdiaz.dynip.com/AFilter29.zip) — Utility to filter feed from Internet APRS Feeds
-    * Out of the box, WinAPRS can connect to the APRS-IS Internet servers to receive APRS packets from all over the globe, but the thousands of packets you will receive each hour will quickly overload the program’s memory. By installing AFilter you can limit packets based on a radius around any one point, a list of your buddies, and many other attributes.
 * [Latest FCC Callsign Database](http://wireless.fcc.gov/uls/data/complete/l_amat.zip)
     * This is updated once a week on weekends (so downloading it every monday will keep you current), but before you download it, be forewarned that it is huge—66.1 MB at last check! Download this file, extract its contents from the archive, place them in the directory of your choice. Next, launch WinAPRS and select CallBook DataBase from the Settings menu, select FCC 2000 & Later from the top drop-down listbox, enter the full path to the EN.dat and EN.idx files in the next two fields, respectively, and finally, press the Call Index button. Wait for the process to finish, and then press the OK button.
 * Bay Area Elevation Maps (DEMs)
     * These data files contain fairly coarse, fairly old elevation data that WinAPRS can use to display a color shaded base map that will give you a rough idea of the terrain, while still seeing the roads and labels from the TIGER maps. Download these files, uncompress them with WinZip (or something similar), then place them in your c:\Program Files\WinAPRS\DEMS\ directory.
-* National Weather Service County Warning Area Boundaries
-    * This NWS Shape File can be used by some APRS software to highlight which counties have weather warnings or alerts. These alerts are as special APRS packets, [automatically generated from the NWS feed by software from KG5QD](http://www.aprs-is.net/Wx/). [An example using Washington](http://www.nwaprs.org/nws.htm) shows what this capability looks like. You should ocasionally download the latest files available from these pages, and place them in your c:\Program Files\WinAPRS\NWSshape\ directory. I have provided links to both the directory page (first line) and the most recent (second line) data file at the time of this writing, but please double-check the directory page ocasionally to make sure you are getting the latest file.
-    * [County Warning Area Boundaries](http://www.nws.noaa.gov/geodata/catalog/wsom/html/cwa.htm)
-        * [May 2, 2005 File](http://www.nws.noaa.gov/geodata/catalog/wsom/data/w_28de04.zip). Everyone should have this one. It is the outlines for the County Warning Areas, there are only 121 of these
-    * [AWIPS Counties](http://www.nws.noaa.gov/geodata/catalog/county/html/county.htm)
-        * [May 2, 2005 File](http://www.nws.noaa.gov/geodata/catalog/county/data/c_28de04.zip). These are the county outlines for 3232 (or so) counties including Alaska, Hawawii, Peurto Rico, and Guam.
-    * [Public Forecast Zones](http://www.nws.noaa.gov/geodata/catalog/wsom/html/pubzone.htm)
-        * [November 2004 File](http://www.nws.noaa.gov/geodata/catalog/wsom/data/z_30nv04.zip). These are warning zones, which are similar in size to counties but have different boundaries.
-    * [Coastal and Offshore Marine Zones](http://www.nws.noaa.gov/geodata/catalog/wsom/html/marinezones.htm)
-        * [May 24, 2005 File](http://www.nws.noaa.gov/geodata/catalog/wsom/data/mz10fe05.zip). These are of use mainly to those living near the coast.
-
-## ZIP Code Database
-
-Download and place [ZipCode.dat](http://www.cnunix.com/ftp/hamradio/tapr/software_lib/aprssig/winstuff/WinAPRS/Data/ZipCode.dat) in your in your c:\Program Files\WinAPRS\DATA\ directory to enable ZIP Code lookups.
-
-## Airport Database
-
-Download and place [Airport.dat](http://www.cnunix.com/ftp/hamradio/tapr/software_lib/aprssig/winstuff/WinAPRS/Data/Airport.dat) in your c:\Program Files\WinAPRS\DATA\ directory to enable lookups of U.S. Airports.
-
-## DXCC List
-
-If it is not already installed, download and place [DXlist.dat](http://www.cnunix.com/ftp/hamradio/rutgers.mirror/WinAPRS/DATA/DXlist.dat) in your c:\Program Files\WinAPRS\DATA\ directory to enable lookups of DXCC Entities.
-
-## [Digipeater Log](http://dididahdahdidit.com/posgen.php3?type=LOG)
-
-Always-current APRS log file showing all known Digipeaters. Shows proper icon and remains visible even when map is panned or zoomed, unlike Overlays. Save to disk, and then use File>Open to display the log
 
 ## ARDF-Capable APRS Software
 
@@ -85,9 +57,9 @@ Always-current APRS log file showing all known Digipeaters. Shows proper icon an
 * TNC Packet Jack
     * A 6-pin mini-DIN connector that handles audio in, audio out, PTT, and squelch signals.
 * Wireless Industry Mounting Bracket Standards
-    * If you need to mount a GPS receiver, APRS display, radio, or other equipment in your car, there is an industry-standard mounting hole pattern. The AMPS hole pattern was created by the Association of Mobile Phone Systems?, and consists of four holes in a rectangular pattern measuring .750 inches by 1.188 inches. An alternative hole pattern was created by NEC (National Electronic Commission)? Mounting brackets using these hole patterns are available from [Haltof Product Design](http://www.haltof.com/), [Ram Mounting Systems](http://www.ram-mount.com/), [Pro.Fit International](http://www.pro-fit-intl.com/) and [DXer Case](http://www.dxercase.com/).
+    * If you need to mount a GPS receiver, APRS display, radio, or other equipment in your car, there is an industry-standard mounting hole pattern. The AMPS hole pattern was created by the Association of Mobile Phone Systems?, and consists of four holes in a rectangular pattern measuring .750 inches by 1.188 inches. An alternative hole pattern was created by NEC (National Electronic Commission)? Mounting brackets using these hole patterns are available from [Haltof Product Design](http://www.haltof.com/), [Ram Mounting Systems](http://www.ram-mount.com/), [Pro.Fit International](http://www.pro-fit-intl.com/).
 * NMEA 0183 Interface Standard Version 2.0 (NMEA-0183 2.0
-    * [The National Marine Electronics Association’s GPS interface standard](http://www.nmea.org/pub/0183/index.html) The standard plain text format that most GPS receivers output via a serial port. There are different types of GPS sentences, including:
+    * `The National Marine Electronics Association’s GPS interface standard` The standard plain text format that most GPS receivers output via a serial port. There are different types of GPS sentences, including:
         * `$GPGGA`
             * For position and height. Looks like: $GPGGA,102705,5157.9762,N,00029.3256,W,1,04,2.0,75.7,M,47.6,M,,*62
         * `$GPGLL`
@@ -99,7 +71,6 @@ Always-current APRS log file showing all known Digipeaters. Shows proper icon an
         * `$GPWPL`—For sending Waypoints to stand-alone trackers
         * `$PMGLB` —Magelan Altitude
         * `$PGRMZ` —Garmin Altitude
-    * (Geeks might be interested to know about the [CANbus](http://www.dockyardelectrics.com/Cetrek/nmea.htm), from which NMEA-2000, a new marine data bus, was derived.)
 * Sending Waypoints to GPS Displays
     * Some APRS software can send stations and objects from your local map out as special APRS packets that will appear as destination waypoints. The intent is that this waypoint will be your destination, and APRSdos will draw a line from that station’s reported position to the waypoint.
 * Overlaying Images From Internet
@@ -107,4 +78,4 @@ Always-current APRS log file showing all known Digipeaters. Shows proper icon an
 * Tiny Web Pages
     * If a local node is running the right software, it can respond to query packets with requested information, if available.
 * Latitude/Longitude Calculators
-    * [Lat/Lon Coordinates can be expressed in one of three ways](http://www.maptools.com/UsingLatLon/Formats.html): decimal degrees, degrees minutes and seconds, or degrees and decimal minutes. Several sites offer conversion between the first two type, including the [FCC Lat/Lon Calculator](http://www.fcc.gov/mb/audio/bickel/DDDMMSS-decimal.html) and the [Efficacy.net Lat/Lon Converter](http://efficacy.net/experiments/convert_lat_long/). Also of interest is the [AMSAT GridSquare Converter](http://www.amsat.org/amsat/toys/gridconv.html). [Mac users can download the LatLon Converter](http://www.chimoosoft.com/latlon.html). APRS coordinates are reported using Degrees and Decimal Minutes, in a concatenated format that looks like DDDMM.MM, so that 12215.79 represents 122.26330 degrees.
+    * [Lat/Lon Coordinates can be expressed in one of three ways](http://www.maptools.com/UsingLatLon/Formats.html): decimal degrees, degrees minutes and seconds, or degrees and decimal minutes. Several sites offer conversion between the first two type, including the [FCC Lat/Lon Calculator](http://www.fcc.gov/mb/audio/bickel/DDDMMSS-decimal.html) and the [Efficacy.net Lat/Lon Converter](http://efficacy.net/experiments/convert_lat_long/). Also of interest is the [AMSAT GridSquare Converter](http://www.amsat.org/amsat/toys/gridconv.html). APRS coordinates are reported using Degrees and Decimal Minutes, in a concatenated format that looks like DDDMM.MM, so that 12215.79 represents 122.26330 degrees.
