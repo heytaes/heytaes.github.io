@@ -12,7 +12,7 @@ Week | Operator
 4th Monday  | Rob Fenn, KC6TYD
 5th Monday  | Rob Fenn, KC6TYD
 
-<mark>If you would like to be a Net Control Operator contact Doug at [dteter@wcwi.com](dteter@wcwi.com)</mark>
+<mark>If you would like to be a Net Control Operator contact Doug at <kg6lwe@paara.org></mark>
 
 ### Net Script
 
