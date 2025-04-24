@@ -31,6 +31,11 @@
             {% assign item_link_with_baseurl = item.link | prepend: site.baseurl %}
             <a class="sidebar{% if page.url == item.link or page.url == item_link_with_baseurl %} current{% endif %}" href="{{ item.link }}">{{ item.name }}</a><br>
           {% endfor %}
+          <hr>
+          {% for item in site.data.bottomsection %}
+            {% assign item_link_with_baseurl = item.link | prepend: site.baseurl %}
+            <a class="sidebar{% if page.url == item.link or page.url == item_link_with_baseurl %} current{% endif %}" href="{{ item.link }}">{{ item.name }}</a><br>
+          {% endfor %}
         </aside>
 
         <section id="main-content">
