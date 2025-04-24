@@ -6,11 +6,10 @@ PAARA membership has fluctuated over the years, but might be larger now than it 
 
 Today, the Palo Alto Amateur Radio Association consists of nearly 200 members, and is one of the oldest amateur radio clubs in California.
 
----
+## Member list
 
 If you want to access the most up-to-date member list, please click [here](https://forms.gle/59r9LmEgWiwoJ7TBA). If you do not know the username and password, please get in touch with the `PAARA Secretary` at <secretary@paara.org>.
 
----
 
 ## Special Life Memberships
 
