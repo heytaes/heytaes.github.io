@@ -6,7 +6,6 @@
     * Fairly capable software, half-way decent mapping support. $50 to register.
 * [UI-View](http://www.ui-view.org/)
     * Easiest-to-use APRS software, but no zoomable maps without purchase of Precision Mapping.
-* [APRSPoint](http://www.aprspoint.com/)
     * APRS for Microsoft MapPoint. Great maps, but very limited features. $104 with MapPoint, $30 without.
 * [AGWTracker](http://www.elcom.gr/sv2agw/tracker.htm)
     * Newest Windows APRS software. Great GeoTIFF map support, several cool features. $50 to register.
@@ -55,7 +54,7 @@ For those that don’t have APRS software installed or even a means of receiving
 * TNC Packet Jack
     * A 6-pin mini-DIN connector that handles audio in, audio out, PTT, and squelch signals.
 * Wireless Industry Mounting Bracket Standards
-    * If you need to mount a GPS receiver, APRS display, radio, or other equipment in your car, there is an industry-standard mounting hole pattern. The AMPS hole pattern was created by the Association of Mobile Phone Systems?, and consists of four holes in a rectangular pattern measuring .750 inches by 1.188 inches. An alternative hole pattern was created by NEC (National Electronic Commission)? Mounting brackets using these hole patterns are available from [Haltof Product Design](http://www.haltof.com/), [Ram Mounting Systems](http://www.ram-mount.com/), [Pro.Fit International](http://www.pro-fit-intl.com/).
+    * If you need to mount a GPS receiver, APRS display, radio, or other equipment in your car, there is an industry-standard mounting hole pattern. The AMPS hole pattern was created by the Association of Mobile Phone Systems?, and consists of four holes in a rectangular pattern measuring .750 inches by 1.188 inches. An alternative hole pattern was created by NEC (National Electronic Commission)? Mounting brackets using these hole patterns are available from [Ram Mounting Systems](http://www.ram-mount.com/), [Pro.Fit International](http://www.pro-fit-intl.com/).
 * NMEA 0183 Interface Standard Version 2.0 (NMEA-0183 2.0
     * `The National Marine Electronics Association’s GPS interface standard` The standard plain text format that most GPS receivers output via a serial port. There are different types of GPS sentences, including:
         * `$GPGGA`
