@@ -16,7 +16,7 @@ echo """## Notes on using zoom
 
 Around 2021 (during the COVID pandemic), we started recording our monthly presentations, which you can find either under the individual meetings below, or in our [YouTube channel](https://youtube.com/@paarapresentations-c3w?si=0nIFJeYS5yRwfU9A).
 
-<iframe src=\"https://www.youtube.com/embed/?listType=user_uploads&list=@PAARAPresentations-c3w\" width=\"480\" height=\"400\"></iframe>
+<iframe src=\"https://www.youtube.com/embed/?listType=user_uploads&list=PAARAPresentations-c3w\" width=\"480\" height=\"400\"></iframe>
 
 ## Past Meetings
 
