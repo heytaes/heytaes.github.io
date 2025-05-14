@@ -14,7 +14,11 @@
 
 Around 2021 (during the COVID pandemic), we started recording our monthly presentations, which you can find either under the individual meetings below, or in our [YouTube channel](https://youtube.com/@paarapresentations-c3w?si=0nIFJeYS5yRwfU9A).
 
-<iframe src=https://www.youtube.com/embed/?listType=user_uploads
+<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=@PAARAPresentations-c3w" width="480" height="400"></iframe>
+
+## Past Meetings
+
+
 ### 2025
 
 * [202506](/meetings/2025/202506.html)  **To be announced** : `June Monthly Meeting`
