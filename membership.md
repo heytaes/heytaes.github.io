@@ -19,8 +19,8 @@ If you want to access the most up-to-date member list, please click [here](https
 | Jim Rice | [K6AK](https://www.qrz.com/db/K6AK) | -- | [pdf](/membership/Jim_Rice_proclamation2.pdf) | 2022 |
 | Vic Black | [AB6SO](https://www.qrz.com/db/AB6SO) | -- | [pdf](/membership/Vic_Black_certificate.pdf) | 2021 |
 | Gerry Tucker | [N6NV](https://www.qrz.com/db/N6NV) | -- | [pdf](/membership/Gerry_proclamantion_3.pdf) | 2019 |
-| Steve Stuntz | [K6FS](https://www.qrz.com/db/K6FS) | SK | 2007 |
-| Joe Gomes | [KB6HDC](https://www.qrz.com/db/KB6HDC) | SK | 2004-05 |
+| Steve Stuntz | [K6FS](https://www.qrz.com/db/K6FS) | SK | -- |2007 |
+| Joe Gomes | [KB6HDC](https://www.qrz.com/db/KB6HDC) | SK | -- | 2004-05 |
 | Leslie Vickery | [W6AKR](https://www.qrz.com/db/W6AKR) | SK | -- | -- |
 | Ron Panton | [W6VG](https://www.qrz.com/db/W6VG) | SK | -- | 2003-07 |
 
