@@ -6,6 +6,18 @@ Club members are encouraged to help file Issues for the problems encountered on 
 
 This page acts mainly as a HowTo for other contributors. The old readme is now at [ARCHITECT.md](ARCHITECT.md).
 
+## How to add a new meeting?
+
+1. Modify the meeting skeleton to add: 
+   * topic
+   * presenter
+   * details
+   * example at <https://github.com/PAARA-org/paara-org.github.io/blob/master/meetings/2025/202506.md?plain=1>
+
+2. Upload an image (optional) and render it inline
+3. Modify `_includes/meeting-short.md` to include the same details (this will be rendered on the first page)
+   * example at <https://github.com/PAARA-org/paara-org.github.io/blob/41e09eb62eccab82d7b528a0111cd3cf2c46dceb/_includes/meeting-short.md?plain=1>
+
 ## What to do after a monthly meeting ends?
 
 Examples are for changes done after the May 2025 Monthly meeting
