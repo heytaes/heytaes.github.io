@@ -30,7 +30,6 @@
   </table>
 </details>
 <br>
-<br>
 
 ![image](/meetings/2025/202506-guest-speaker.jpg)
 
