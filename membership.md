@@ -15,7 +15,7 @@ If you want to access the most up-to-date member list, please click [here](https
 
 | Name | Call Sign | Silent Key | Proclamation | Award year |
 |------|-----------|------------|--------------|------------|
-| Andrew Korsak | [KR6DD](https://www.qrz.com/db/KR6DD) | -- | -- | 2024 |
+| Andrew Korsak | [KR6DD](https://www.qrz.com/db/KR6DD) | -- | [pdf](/membership/Andy_Korsak_proclamation.pdf) | 2024 |
 | Jim Rice | [K6AK](https://www.qrz.com/db/K6AK) | -- | [pdf](/membership/Jim_Rice_proclamation2.pdf) | 2022 |
 | Vic Black | [AB6SO](https://www.qrz.com/db/AB6SO) | -- | [pdf](/membership/Vic_Black_certificate.pdf) | 2021 |
 | Gerry Tucker | [N6NV](https://www.qrz.com/db/N6NV) | -- | [pdf](/membership/Gerry_proclamantion_3.pdf) | 2019 |
