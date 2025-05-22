@@ -4,7 +4,7 @@
 * **Presenter**: `Richard Dillman (W6AWO)`
 
 <details>
-  <summary><b>Click to see the prizes!</b></summary>
+  <summary><b>Click to see the raffle prizes!</b></summary>
   <table>
     <tr>
         <th>1st prize</th>
