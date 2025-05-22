@@ -10,10 +10,6 @@ layout: default
 
 **Field Day** is June 28 and 29. Check the [field day page](/fieldday.html) to find out more information about how you can get involved.
 
-PAARA has a 2025 edition Feid Day T-shirt available for purchase. Check out the example below. To ensure that you receive your T-shirt in time for Field Day, you must [place your order](https://forms.gle/Q4fXjM3HWyiZ34mc9) by the end of Friday, May 2.
-
-![field-day-2025-tshirt-2.jpg](/fieldday/field-day-2025-tshirt-2.jpg)
-
 
 ## Welcome
 
