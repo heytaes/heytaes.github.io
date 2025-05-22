@@ -58,7 +58,7 @@ Membership is available to all persons licensed or not who are interested in Ama
 			<td bgcolor="#FFFF99" valign="middle" width="33%">
 			<div align="center"><span>For information about becoming a PAARA member please contact Membership Secretary, </span><br />
 			<span class="color:blue">Ric Hulett (N6AJS) at:<br />
-			<a href="mailto:N6AJS@arrl.net">N6AJS@arrl.net</a></span></div>
+			<a href="mailto:n6ajs@paara.org">n6ajs@paara.org</a></span></div>
 			</td>
 		</tr>
 	</tbody>

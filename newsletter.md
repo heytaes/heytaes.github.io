@@ -72,5 +72,5 @@
 | Editor - Backup     | Jim Thielemann    | K6SV  | <THIELEM@pacbell.net> |
 | Advertising         | Walt Gyger        | W6WGY | <walt@tradewindsaviation.com> |
 | Member Profiles     | __VACANT__        |       | |
-| Technical Tips      | Ric Hulett        | N6AJS | <N6AJS@arrl.net> |
+| Technical Tips      | Ric Hulett        | N6AJS | <n6ajs@paara.org> |
 | Photographer        | __VACANT__        |       | |
