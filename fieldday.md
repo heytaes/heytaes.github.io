@@ -2,8 +2,6 @@
 
 ## Bedwell Bayfront Park, Menlo Park 28, 29 June 2025
 
-[ __Order your T-shirt [here](https://forms.gle/dFnYKKpdH1jK8CHeA) until May 2nd 2025__ ]
-
 PAARA will again be holding its annual Field Day event at Bedwell Bayfront Park in Menlo Park on June 28 & 29 this year.
 
 ### Stations
