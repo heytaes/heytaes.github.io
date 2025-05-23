@@ -82,12 +82,12 @@ ASVARO Representative           | Clark Martin          | KK6ISP    | <KK6ISP@AR
 Badge Coordinator               | Doug Teter            | KG6LWE    | <kg6lwe@paara.org>
 Database                        | Ric Hulett            | N6AJS     | <n6ajs@paara.org>
 Field Day Coordinator           | Doug Teter            | KG6LWE    | <kg6lwe@paara.org>
-Field Trip Coordinator          | __OPEN__              | __OPEN__  | __OPEN__
-Fund Raising Coordinator        | Bob Korte             | KD6KYT    | <bob@rgktechsale.com>
-Historian                       | __VACANT__            |           |
+Field Trip Coordinator          | __OPEN__              |           | 
+Fund Raising Coordinator        | __OPEN__              | KD6KYT    | <bob@rgktechsale.com>
+Historian                       | __OPEN__              |           |
 Membership                      |                       |           |
 Property Manager                |                       |           |
-Public Affairs                  | __VACANT__            |           |
+Public Affairs                  | __OPEN__              |           |
 QSL Manager                     | Marty Wayne           | W6NEV     | <w6nev@arrl.net>
 Raffle Coordinator              | Rob Fenn              | KC6TYD    | <kc6tyd@paara.org>
 Speaker Coordinator             | Rob Fenn              | KC6TYD    | <kc6tyd@paara.org>
