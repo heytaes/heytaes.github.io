@@ -85,8 +85,8 @@
 `Field Trip Coordinator`          | _OPEN_                    |           | 
 `Fund Raising Coordinator`        | _OPEN_                    |           | 
 `Historian`                       | _OPEN_                    |           |
-`Membership`                      |                           |           |
-`Property Manager`                |                           |           |
+`Membership`                      | _OPEN_                    |           |
+`Property Manager`                | _OPEN_                    |           |
 `Public Affairs`                  | _OPEN_                    |           |
 `QSL Manager`                     | **Marty Wayne**           | W6NEV     | <w6nev@arrl.net>
 `Raffle Coordinator`              | **Rob Fenn**              | KC6TYD    | <kc6tyd@paara.org>
