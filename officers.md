@@ -91,7 +91,7 @@
 `QSL Manager`                     | **Marty Wayne**           | W6NEV     | <w6nev@arrl.net>
 `Raffle Coordinator`              | **Rob Fenn**              | KC6TYD    | <kc6tyd@paara.org>
 `Speaker Coordinator`             | **Rob Fenn**              | KC6TYD    | <kc6tyd@paara.org>
-`Station Trustee - W6ARA`         | **Gerry Tucker**          | N6NV      |
+`Station Trustee - W6ARA`         | **Bob Ridenour**          | KN6YGN    | <kn6ygn@paara.org>
 `Station Trustee - W6OTX`         | **Christopher Hoover**    | AI6KG     | <ai6kg@arrl.net>
 `Station Trustee - K6YQT`         | **Doug Teter**            | KG6LWE    | <kg6lwe@paara.org>
 `Technical Coordinator`           | **Christopher Hoover**    | AI6KG     | <ai6kg@arrl.net>
