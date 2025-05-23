@@ -83,7 +83,7 @@ Badge Coordinator               | Doug Teter            | KG6LWE    | <kg6lwe@pa
 Database                        | Ric Hulett            | N6AJS     | <n6ajs@paara.org>
 Field Day Coordinator           | Doug Teter            | KG6LWE    | <kg6lwe@paara.org>
 Field Trip Coordinator          | __OPEN__              |           | 
-Fund Raising Coordinator        | __OPEN__              | KD6KYT    | <bob@rgktechsale.com>
+Fund Raising Coordinator        | __OPEN__              |           | 
 Historian                       | __OPEN__              |           |
 Membership                      |                       |           |
 Property Manager                |                       |           |
