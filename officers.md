@@ -76,24 +76,24 @@
 
 ## Appointed Positions
 
-Position | Name | Call Sign | Email
+**Position** | **Name** | **Call Sign** | **Email**
 ---|---|---|---
-ASVARO Representative           | Clark Martin          | KK6ISP    | <KK6ISP@ARRL.net>
-Badge Coordinator               | Doug Teter            | KG6LWE    | <kg6lwe@paara.org>
-Database                        | Ric Hulett            | N6AJS     | <n6ajs@paara.org>
-Field Day Coordinator           | Doug Teter            | KG6LWE    | <kg6lwe@paara.org>
-Field Trip Coordinator          | __OPEN__              |           | 
-Fund Raising Coordinator        | __OPEN__              |           | 
-Historian                       | __OPEN__              |           |
-Membership                      |                       |           |
-Property Manager                |                       |           |
-Public Affairs                  | __OPEN__              |           |
-QSL Manager                     | Marty Wayne           | W6NEV     | <w6nev@arrl.net>
-Raffle Coordinator              | Rob Fenn              | KC6TYD    | <kc6tyd@paara.org>
-Speaker Coordinator             | Rob Fenn              | KC6TYD    | <kc6tyd@paara.org>
-Station Trustee - W6ARA         | Gerry Tucker          | N6NV      |
-Station Trustee - W6OTX         | Christopher Hoover    | AI6KG     | <ai6kg@arrl.net>
-Station Trustee - K6YQT         | Doug Teter            | KG6LWE    | <kg6lwe@paara.org>
-Technical Coordinator           | Christopher Hoover    | AI6KG     | <ai6kg@arrl.net>
-Webmaster                       | Shrikumar H.          | KA6Q      | <shri.paara@enablery.org>
+`ASVARO Representative`           | **Clark Martin**          | KK6ISP    | <KK6ISP@ARRL.net>
+`Badge Coordinator`               | **Doug Teter**            | KG6LWE    | <kg6lwe@paara.org>
+`Database`                        | **Ric Hulett**            | N6AJS     | <n6ajs@paara.org>
+`Field Day Coordinator`           | **Doug Teter**            | KG6LWE    | <kg6lwe@paara.org>
+`Field Trip Coordinator`          | _OPEN_                    |           | 
+`Fund Raising Coordinator`        | _OPEN_                    |           | 
+`Historian`                       | _OPEN_                    |           |
+`Membership`                      |                           |           |
+`Property Manager`                |                           |           |
+`Public Affairs`                  | _OPEN_                    |           |
+`QSL Manager`                     | **Marty Wayne**           | W6NEV     | <w6nev@arrl.net>
+`Raffle Coordinator`              | **Rob Fenn**              | KC6TYD    | <kc6tyd@paara.org>
+`Speaker Coordinator`             | **Rob Fenn**              | KC6TYD    | <kc6tyd@paara.org>
+`Station Trustee - W6ARA`         | **Gerry Tucker**          | N6NV      |
+`Station Trustee - W6OTX`         | **Christopher Hoover**    | AI6KG     | <ai6kg@arrl.net>
+`Station Trustee - K6YQT`         | **Doug Teter**            | KG6LWE    | <kg6lwe@paara.org>
+`Technical Coordinator`           | **Christopher Hoover**    | AI6KG     | <ai6kg@arrl.net>
+`Webmaster`                       | **Shrikumar H.**          | KA6Q      | <shri.paara@enablery.org>
 
