@@ -8,28 +8,28 @@
         <tr>
             <td valign="top" width="25%">
             <div align="center"><img src="/images/KN6YGN.jpeg" style="margin-top: 5px; margin-bottom: 5px; width: 100px; height: 140px;" alt="image" /><br />
-            <span>`President`</span><br />
+            <span>President</span><br />
             <span><b>Bob Ridenour</b><br />
             <span><a href="https://www.qrz.com/db/KN6YGN" target="_blank">KN6YGN</a></span><br />
             <a href="mailto:kn6ygn@paara.org">kn6ygn@paara.org</a></span></div>
             </td>
             <td valign="top" width="25%">
             <div align="center"><img height="140" src="/images/KC6TYD-100.jpg" vspace="5" width="100" alt="image" /><br />
-            <span>`Vice President`</span><br />
+            <span>Vice President </span><br />
             <span><b>Rob Fenn</b></span><br />
             <span><a href="https://www.qrz.com/db/KC6TYD" target="_blank">KC6TYD</a></span><br />
             <a href="mailto:kc6tyd@paara.org">kc6tyd@paara.org</a></div>
             </td>
             <td valign="top" width="25%">
             <div align="center"><img height="140" src="/images/N6AJS-100.jpg" vspace="5" width="100" alt="image" /><br />
-            <span>`Secretary`</span><br />
+            <span>Secretary</span><br />
             <span><b>Ric Hulett</b></span><br />
             <span><a href="https://www.qrz.com/db/N6AJS" target="_blank">N6AJS</a></span><br />
             <a href="mailto:n6ajs@paara.org">n6ajs@paara.org</a></div>
             </td>
             <td valign="top" width="25%">
             <div align="center"><img height="140" src="/images/k6wek.jpg" vspace="5" width="100" alt="image" /><br />
-            <span>`Treasurer`</span><br />
+            <span>Treasurer</span><br />
             <span><b>Margaret Cooper</b></span><br />
             <span><a href="https://www.qrz.com/db/K6WEK" target="_blank">K6WEK</a></span><br />
             <a href="mailto:k6wek@paara.org">k6wek@paara.org</a></div>
@@ -43,14 +43,14 @@
         <tr>
             <td valign="top">
             <div align="center"><img height="140" src="/images/K6WGY-100-1.jpg" vspace="5" width="100" alt="image" /><br />
-            <span>`2025-2026`</span><br />
+            <span>2025-2026</span><br />
             <span><b>Walt Gyger</b></span><br />
             <span><a href="https://www.qrz.com/db/K6WGY" target="_blank">K6WGY</a></span><br />
             <a href="mailto:k6wgy@paara.org">k6wgy@paara.org</a></div>
             </td>
             <td  valign="top">
             <div align="center"><img alt="" src="/images/KN6YUH.jpg" style="margin-top: 5px; margin-bottom: 5px; width: 93px; height: 140px;" alt="image" /><br />
-            <span>`2024-2025`</span><br />
+            <span>2024-2025</span><br />
             <span><b>Sorin Constantinescu</b></span><br />
             <span><a href="https://www.qrz.com/db/KN6YUH" target="_blank">KN6YUH</a></span><br />
             <a href="mailto:kn6yuh@paara.org">kn6yuh@paara.org</a></div>
@@ -58,14 +58,14 @@
             </td>
             <td valign="top">
             <div align="center"><img alt="" src="/images/KG6LWE-100.jpg" style="margin-top: 5px; margin-bottom: 5px; width: 93px; height: 140px;" alt="image" /><br />
-            <span>`2025`</span><br />
+            <span>2025</span><br />
             <span><b>Doug Teter</b></span><br />
             <span><a href="https://www.qrz.com/db/KG6LWE" target="_blank">KG6LWE</a></span><br />
             <a href="mailto:kg6lwe@paara.org">kg6lwe@paara.org</a></div>
             </td>
             <td valign="top">
             <div align="center"><img alt="" src="/images/KI6LDM-100.jpg" style="margin-top: 5px; margin-bottom: 5px; width: 93px; height: 140px;" alt="image" /><br />
-            <span>`2025`</span><br />
+            <span>2025</span><br />
             <span><b>Darryl Presley</b></span><br />
             <span><a href="https://www.qrz.com/db/KI6LDM" target="_blank">KI6LDM</a></span><br />
             <a href="mailto:ki6ldm@paara.org">ki6ldm@paara.org</a></div>
