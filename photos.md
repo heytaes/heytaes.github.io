@@ -1,22 +1,16 @@
 # Photos
 
+## Antenna Party #1
+
+Click [here](https://drive.google.com/drive/folders/12moAUAgE0SXoR_hgiooxX_FOZuLcKyn6) for more pictures.
+
+![image](/fieldday/images/2025-antenna-party-1.jpg)
+
 ## PAARA In The Park May 2025
 
 Check [here](https://drive.google.com/drive/folders/1ZF-T91YtrTV37B_fNQRced4kS8BL3bDY?usp=sharing) more photographs taken during [PAARA In The Park](/events/20250503.html)
 
-![image](/events/images/2025/20250503/IMG_2095.jpeg)
-
-![image](/events/images/2025/20250503/IMG_9591.jpeg)
-
 ![image](/events/images/2025/20250503/IMG_9603.jpeg)
-
-![image](/events/images/2025/20250503/IMG_9604.jpeg)
-
-![image](/events/images/2025/20250503/IMG_9607.jpeg)
-
-![image](/events/images/2025/20250503/IMG_9611.jpeg)
-
-![image](/events/images/2025/20250503/IMG_9625.jpeg)
 
 ## Pictures from the old website
 

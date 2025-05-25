@@ -22,6 +22,12 @@ Advance preparation for Field Day will include several (likely 3) antenna work p
 
 We have always enjoyed these “work parties” and have found them to be good team-building opportunities, as well as good practice in assembling the antennas and getting them up in the air.  If you’re interested in coming out for a couple of fun days in the sun with the team, please let **Doug** [KG6LWE](https://www.qrz.com/db/KG6LWE) know.  Planning for these is already under way.
 
+#### Antenna Party #1 
+ 
+![image](/fieldday/images/2025-antenna-party-1.jpg)
+
+Click [here](https://drive.google.com/drive/folders/12moAUAgE0SXoR_hgiooxX_FOZuLcKyn6) for more pictures.
+
 ### Installation
 We will be returning to our previous practice of beginning setup at the park on Thursday afternoon, with the erection of one of our AB-621 military mast systems with our big triband KT-34XA beam antenna on top.  Work will continue Friday morning with the erection of another AB621, with another beam, the 20 Meter monobander for Marty’s digital station, followed by the assembly and erection of the monster 4 element 40 Meter beam on the tower trailer.  An 80 Meter dipole will also be strung up for nighttime operations.   GOTA’s Buddihex antenna will likely go up Saturday morning.
 
