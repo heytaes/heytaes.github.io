@@ -82,11 +82,11 @@
 `Badge Coordinator`               | **Doug Teter**            | KG6LWE    | <kg6lwe@paara.org>
 `Database`                        | **Ric Hulett**            | N6AJS     | <n6ajs@paara.org>
 `Field Day Coordinator`           | **Doug Teter**            | KG6LWE    | <kg6lwe@paara.org>
-`Field Trip Coordinator`          | _OPEN_                    |           | 
+`Field Trip Coordinator`          | **Rob Fenn**              | KC6TYD    | <kc6tyd@paara.org>
 `Fund Raising Coordinator`        | _OPEN_                    |           | 
 `Historian`                       | _OPEN_                    |           |
-`Membership`                      | _OPEN_                    |           |
-`Property Manager`                | _OPEN_                    |           |
+`Membership`                      | **Ric Hulett**            | N6AJS     | <n6ajs@paara.org>
+`Property Manager`                | **Doug Teter**            | KG6LWE    | <kg6lwe@paara.org>
 `Public Affairs`                  | _OPEN_                    |           |
 `QSL Manager`                     | **Marty Wayne**           | W6NEV     | <w6nev@arrl.net>
 `Raffle Coordinator`              | **Rob Fenn**              | KC6TYD    | <kc6tyd@paara.org>
