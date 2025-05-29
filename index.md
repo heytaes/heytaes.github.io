@@ -10,6 +10,7 @@ layout: default
 
 **Field Day** is June 28 and 29. Check the [field day page](/fieldday.html) to find out more information about how you can get involved.
 
+![fieldday](/fieldday/images/Field-Day-Flyer-2025.jpg)
 
 ## Welcome
 
