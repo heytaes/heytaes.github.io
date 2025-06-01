@@ -47,6 +47,7 @@ For questions about Field Day or to volunteer to help, you can contact Doug, KG6
 ## Past Field Days
 
 * [2024](/fieldday/2024.html)
+* [2019](/fieldday/2019.html)
 
 ## Field Day By Jack Daane, KR6CD
 

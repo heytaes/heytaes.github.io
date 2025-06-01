@@ -1,5 +1,11 @@
 # Photos
 
+## Field Day 2019
+
+Click [here](https://drive.google.com/file/d/1X7B8sa8REHGBw8mC9BH9r5ne6pVJisfG/view?usp=drive_link) to view the time-lapse for the 40m beam and tower installation.
+
+![2019-field-day-40m-beam-and-tower-timelapse.png](/fieldday/images/2019-field-day-40m-beam-and-tower-timelapse.png)
+
 ## Antenna Party #1 May 2025
 
 Click [here](https://drive.google.com/drive/folders/12moAUAgE0SXoR_hgiooxX_FOZuLcKyn6) for more pictures.
