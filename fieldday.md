@@ -30,6 +30,12 @@ We have always enjoyed these “work parties” and have found them to be good t
 
 Click [here](https://drive.google.com/drive/folders/12moAUAgE0SXoR_hgiooxX_FOZuLcKyn6) for more pictures.
 
+#### Antenna Party #2 
+ 
+![image](/fieldday/images/2025-antenna-party-2.jpg)
+
+Click [here](https://drive.google.com/drive/folders/12rLN7qmxPZGCq2kmcqKQoBy_97bzRaLI?usp=drive_link) for more pictures.
+
 ### Installation
 We will be returning to our previous practice of beginning setup at the park on Thursday afternoon, with the erection of one of our AB-621 military mast systems with our big triband KT-34XA beam antenna on top.  Work will continue Friday morning with the erection of another AB621, with another beam, the 20 Meter monobander for Marty’s digital station, followed by the assembly and erection of the monster 4 element 40 Meter beam on the tower trailer.  An 80 Meter dipole will also be strung up for nighttime operations.   GOTA’s Buddihex antenna will likely go up Saturday morning.
 
