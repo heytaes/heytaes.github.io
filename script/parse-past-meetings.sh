@@ -12,6 +12,25 @@ echo """## Notes on using zoom
 
 ---
 
+## Club Meetings
+
+The Palo Alto Amateur Radio Association meets on the 1st Friday of the month at 7:00 pm (19:00 J) (except when the first Friday lands on a holiday and typically moved to the 2nd Friday of the month).
+
+* **Location**: Room H6, Cubberley Community Center 4000 Middflefield Road, Palo Alto, CA 94303
+* **Telephone**: (650) 329-2418
+
+![cubberley-600.jpg](/meetings/cubberley-600.jpg)
+
+After the meeting, many members gather for beer, pizza, and eyeball QSO at **Mountain Mike's Pizza**, located at **3918 Middlefield Rd**, in Palo Alto. It's literally next door to Cubberly.
+
+## Board Meetings
+
+The PAARA Board meets on the 3rd Wednesday of every month at 7:00 pm by video conference.  We conduct most of our club business there in order to allow more time for guest speakers and socializing at regular club meetings.  Any PAARA member is welcome to attend.
+
+A few meetings throughout the year have pre-defined agenda items. These include:
+* **September Board Meeting**: The Nominating Committee is appointed by the President to decide on a slate of candidates to be recommended to the membership.
+* **October General Meeting**: The Nominating Committee presents its nominations to the membership at the regular club meeting.  Nominations from club members opens at the beginning of the meeting, and closes at the end of the meeting.
+
 ## YouTube recordings
 
 Around 2021 (during the COVID pandemic), we started recording our monthly presentations, which you can find either under the individual meetings below, or in our [YouTube channel](https://youtube.com/@paarapresentations-c3w?si=0nIFJeYS5yRwfU9A).
