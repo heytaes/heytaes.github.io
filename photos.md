@@ -1,5 +1,12 @@
 # Photos
 
+
+#### Electronics Flea Market May 2025
+
+Click [here](https://drive.google.com/drive/folders/1dfzrSj6794Mx09dpJeFzk-vi3_iUsgBB?usp=drive_link) for more pictures.
+
+![image](/events/images/Electronics-Flea-Market-05-18-2025.fpeg)
+
 #### Antenna Party #2 May 2025
 
 ![image](/fieldday/images/2025-antenna-party-2.jpg)
