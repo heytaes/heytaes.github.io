@@ -1,4 +1,4 @@
-# PAARAgraphs Newsletter Repository
+# PAARAgraphs Newsletter
 
 PAARAgraphs issues older than 6 months are added to the archive for all to read.
 
