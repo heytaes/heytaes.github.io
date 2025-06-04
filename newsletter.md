@@ -1,5 +1,9 @@
 # PAARAgraphs Newsletter Repository
 
+PAARAgraphs issues older than 6 months are added to the archive for all to read.
+
+[PAARA members](/membership.html) receive current issues in print or email format.
+
 ## Archive
 
  |      | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |
