@@ -1,1 +1,1 @@
-meetings/2025/202506.md
+meetings/2025/202507.md
