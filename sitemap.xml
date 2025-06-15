@@ -5,12 +5,12 @@ layout: null
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for page in site.data.navigation %}
     <url>
-        <loc>https://example.com{{ page.url | remove: 'index.html' }}</loc>
+        <loc>https://paara.org{{ page.link | remove: 'index.html' }}</loc>
     </url>
     {% endfor %}
     {% for page in site.data.bottomsection %}
     <url>
-        <loc>https://example.com{{ page.url | remove: 'index.html' }}</loc>
+        <loc>https://paara.org{{ page.link | remove: 'index.html' }}</loc>
     </url>
     {% endfor %}
 </urlset>
