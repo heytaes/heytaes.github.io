@@ -59,6 +59,26 @@ For questions about Field Day or to volunteer to help, you can contact Doug, KG6
 
 You can read the Field Day Safety Guidelines by [clicking here](/fieldday/fieldday-safety-guidelines.html). For a printable version of the Safety Guidelines, [open in Google Docs](https://docs.google.com/document/d/1J4zDdLOIcLpmyfRRWEDBjy1PZdddvFCUoqU4WL1VSAg/preview){:target="_blank"}.
 
+Please familiarize yourself with the following rules and regulations of our Field Day site.
+
+### Bedwell Bayfront Park Rules and Regulations (Abbreviated) 
+
+To protect our long lasting relationship with the City of Menlo Park and the park staff, we need to be conscientious and respectful of the privileges we have been granted for the entire duration of Field Day. This abbreviated list of rules and regulations must be followed by all volunteers and participants: 
+
+* Pets are to remain on leash and under control at all times
+* Bikes are restricted to paved trails and roads 
+* Plants and wildlife are to be left undisturbed 
+* Litter and trash are to be disposed of properly 
+* Fire, smoking, alcohol, or weapons of any kind are prohibited
+* Drones and other unmanned aircraft systems are not allowed
+* Tents or other enclosed structures are not allowed
+
+#### Exemptions for Field Day 
+
+* You’re allowed to park your vehicle at the designated Field Day site
+* You’re allowed to remain on site past the posted park closure times
+
+
 ## Past Field Days
 
 * [2024](/fieldday/2024.html)
