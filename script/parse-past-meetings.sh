@@ -16,7 +16,7 @@ echo """## Notes on using zoom
 
 The Palo Alto Amateur Radio Association meets on the 1st Friday of the month at 7:00 pm (19:00 J) (except when the first Friday lands on a holiday and typically moved to the 2nd Friday of the month).
 
-* **Location**: Room H6, Cubberley Community Center 4000 Middflefield Road, Palo Alto, CA 94303
+* **Location**: Room H6, Cubberley Community Center 4000 Middlefield Road, Palo Alto, CA 94303
 * **Telephone**: (650) 329-2418
 
 ![cubberley-600.jpg](/meetings/cubberley-600.jpg)
